@@ -15,8 +15,5 @@ public class SicaklikAlgilayicisi{
     {
         return sicaklik.sicaklikOku(this);
     }
-    
-//    public int sicaklikDegeri(int deger){
-//        if(deger<60)
-//    }
+   
 }
