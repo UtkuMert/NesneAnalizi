@@ -35,8 +35,7 @@ public class MerkeziBirim {
         
         
         kisi=kontrol.Search(id, dgr);
-//        p.attach(subscriber);
-//        subscriber.update("aaa");
+
         
         if(kisi!=null)
         {  
